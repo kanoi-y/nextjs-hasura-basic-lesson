@@ -1,5 +1,5 @@
 {
   "editor.formatOnSave": true,
   "prettier.requireConfig": true,
-  "cSpell.words": ["codegen", "heroicons", "testid"]
+  "cSpell.words": ["codegen", "heroicons", "testid", "USERBY", "USERIDS"]
 }
