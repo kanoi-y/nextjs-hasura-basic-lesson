@@ -11,6 +11,8 @@ import { getPage, initTestHelpers } from 'next-page-tester'
 import 'setimmediate'
 import { handlers } from '../mock/handlers'
 
+process.env.NEXT_PUBLIC_HASURA_URL =
+  'https://dynamic-clam-27.hasura.app/v1/graphql'
 
 initTestHelpers()
 
